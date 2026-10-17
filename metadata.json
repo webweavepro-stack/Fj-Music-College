@@ -1,0 +1,6 @@
+{
+  "name": "FJMUSIC College & LMS",
+  "description": "FJMUSIC College - Practical music education, musicianship, creative development and performance excellence. From practice room to live performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
